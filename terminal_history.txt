@@ -1,0 +1,45 @@
+  404  cd desktop
+  405  git clone https://github.com/avangelinac/venture_funding_with_deep_learning.git
+  406  cd venture_funding_with_deep_learning
+  407  git add .
+  408  git commit -m "commit part one"
+  409  git push origin main
+  410  git add .
+  411  git commit -m "commit part two"
+  412  git push origin main
+  413  git add .
+  414  git commit -m "commit part three"
+  415  git push origin main
+  416  git add .
+  417  git commit -m "commit part one second python file"
+  418  git push origin main
+  419  git add .
+  420  git git add .
+  421  git add .
+  422  git commit -m "commit part two"
+  423  git add .
+  424  git commit -m "commit part three"
+  425  git push origin main
+  426  git add .
+  427  git commit -m "commit part two second python file"
+  428  git push origin main
+  429  git add . 
+  430  git commit -m "commit part three third python file"git push origin main
+  431  git commit -m "commit part three second file"
+  432  git push origin main
+  433  git add .
+  434  git commit -m "commit images folder"
+  435  git push origin main
+  436  cd desktop
+  437  cd venture_funding_deep_learning
+  438  cd venture_funding_with_deep_learning
+  439  git add .
+  440  git commit -m "images folder"
+  441  git push origin main
+  442  cd desktop
+  443  cd venture_funding_with_deep_learning
+  444  git add .
+  445  git commit -m "commitREADME file"
+  446  git push origin main
+  447  history 50 > terminal_history.txt
+  448  history 45 > terminal_history.txt
